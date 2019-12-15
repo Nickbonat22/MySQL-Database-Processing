@@ -1,0 +1,33 @@
+coach_id,name,team,games,wins,loss,previous_coach
+1,Lloyd Pierce,ATL,22,5,17,Mike Budenholzer
+2,Brad Stevens,BOS,21,16,5,Doc Rivers
+3,Kenny Atkinson,BRK,22,12,10,Lionel Hollins 
+4,Jim Boylen,CHI,23,8,15,Fred Hoiberg
+5,James Borrego,CHO,24,9,15,Steve Clifford 
+6,John Beilein,CLE,21,5,16,Larry Drew
+7,Rick Carlisle,DAL,21,15,6,Avery Johnson
+8,Mike Malone,DEN,20,14,6,Melvin Hunt
+9,Dwane Casey,DET,23,9,14,Stan Van Gundy
+10,Steve Kerr,GSW,24,5,19,Mark Jackson
+11,Mike D'Antoni,HOU,21,14,7,Kevin McHale
+12,Nate McMillan,IND,22,14,8,Frank Vogel
+13,Doc Rivers,LAC,23,16,7,Vinny Del Negro
+14,Frank Vogel,LAL,23,20,3,Luke Walton
+15,Taylor Jenkins,MEM,21,6,15,J.B. Bickerstaff
+16,Erik Spoelstra,MIA,22,16,6,Pat Riley
+17,Mike Budenholzer,MIL,23,20,3,Jason Kidd
+18,Ryan Saunders,MIN,21,10,11,Tom Thibodeau
+19,Alvin Gentry,NOP,22,6,16,Monty Williams
+20,Mike Miller,NYK,22,4,18,David Fizdale
+22,Billy Donovan,OKC,21,9,12,Scott Brooks
+23,Steve Clifford,ORL,22,11,11,Frank Vogel
+24,Brett Brown,PHI,22,15,7,Doug Collins
+25,Monty Williams,PHO,21,10,11,Igor Kokoskov
+26,Terry Stotts,POR,23,9,14,Kaleb Canales
+27,Luke Walton,SAC,21,8,13,Dave Joerger
+28,Gregg Popovich,SAS,23,9,14,Bob Hill
+29,Nick Nurse,TOR,21,15,6,Dwane Casey
+30,Quin Snyder,UTA,22,12,10,Tyrone Corbin
+31,Scott Brooks,WAS,21,7,14,Randy Wittman
+,,,,,,
+,,,,,,

@@ -1,0 +1,31 @@
+team_id,name,team,championships,conference
+1,Atlanta Hawks,ATL,1,EASTERN
+2,Boston Celtics,BOS,17,EASTERN
+3,Brooklyn Nets,BRK,0,EASTERN
+4,Charlotte Hornets,CHO,0,EASTERN
+5,Chicago Bulls,CHI,6,EASTERN
+6,Cleveland Cavaliers,CLE,1,EASTERN
+7,Dallas Mavericks,DAL,1,WESTERN
+8,Denver Nuggets,DEN,0,WESTERN
+9,Detroit Pistons,DET,3,EASTERN
+10,Golden State Warriors,GSW,6,WESTERN
+11,Houston Rockets,HOU,2,WESTERN
+12,Indiana Pacers,IND,0,EASTERN
+13,Los Angeles Clippers,LAC,0,WESTERN
+14,Los Angeles Lakers,LAL,16,WESTERN
+15,Memphis Grizzlies,MEM,0,WESTERN
+16,Miami Heat,MIA,3,EASTERN
+17,Milwaukee Bucks,MIL,1,EASTERN
+18,Minnesota Timberwolves,MIN,0,WESTERN
+19,New Orleans Pelicans,NOP,0,WESTERN
+20,New York Knicks ,NYK,2,EASTERN
+21,Oklahoma City Thunder,OKC,1,WESTERN
+22,Orlando Magic,ORL,0,EASTERN
+23,Philadelphia 76ers,PHI,3,EASTERN
+24,Phoenix Suns ,PHO,0,WESTERN
+25,Portland Trail Blazers,POR,1,WESTERN
+26,Sacramento Kings,SAC,1,WESTERN
+27,San Antonio Spurs,SAS,5,WESTERN
+28,Toronto Raptors,TOR,1,EASTERN
+29,Utah Jazz,UTA,0,WESTERN
+30,Washington Wizards,WAS,1,EASTERN
